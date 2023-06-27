@@ -30,9 +30,8 @@ I like playing games,coding part things.
 <img align="left" alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 
 <img align="left" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+
 <img align="left" alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-
 
 
 
@@ -44,8 +43,11 @@ I like playing games,coding part things.
 
 
 
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ravigithubshankar&show_icons=true&theme=radical" />
 
+
+
+
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ravigithubshankar&show_icons=true&theme=radical" />
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravigithubshankar&layout=compact" />
    
    

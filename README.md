@@ -44,9 +44,6 @@ I like playing games,coding part things.
 
 
 
-
-
-
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ravigithubshankar&show_icons=true&theme=radical" />
 
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravigithubshankar&layout=compact" />

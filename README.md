@@ -17,6 +17,20 @@ mentor to students who are passionate in machine learning area.
 
 I like playing games,coding part things.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 🛠 Languages ,Tools and Frameworks:
 
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -45,6 +59,12 @@ I like playing games,coding part things.
 
 
 
+
+
+
+
+
+   
 
 
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ravigithubshankar&show_icons=true&theme=radical" />

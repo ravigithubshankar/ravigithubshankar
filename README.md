@@ -1,5 +1,7 @@
 ### Hi there 👋,I'm Ravi shankar
 
+
+
 🧑‍💻 About Me:
 
 🖖 I am student Artificial Intelligence,Machine learning  and an aspiring Data Scientist Engineer from Andhra pradesh ,India.
@@ -20,11 +22,8 @@ I like playing games,coding part things.
 
 
 
-
-
-
-
-
+Reach Me out:
+[![Twitter Badge](https://img.shields.io/badge/-@Ravishankar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ravi_bedadhala)](https://twitter.com/Ipenywis) [![Linkedin Badge](https://img.shields.io/badge/-Ravishankar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-shankar-bedadhala-581750217/) 
 
 
 
